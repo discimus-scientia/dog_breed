@@ -1,4 +1,4 @@
-# Dog Breed Prediction
+# Dog Breed Identification
 
 This project was part of the Udacity Nanodegree Program.
 
